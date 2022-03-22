@@ -12,7 +12,7 @@ un mes de clases menos el descuento de la renta?*/
     
      double salario, salarioTotal, renta;
      
-     renta=0.10;
+     renta=28.80;
      
      salario=8.00*36;
      salarioTotal= salario-renta;
